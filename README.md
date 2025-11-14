@@ -14,8 +14,7 @@
   <b>AWS Certified Cloud Practitioner</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b>Aviatrix Certified Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
    <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" title="AI/ML"/>  
-  <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-   <img src="https://img.icons8.com/color/24/000000/freelancer.png" title="Freelancer"/>  
+  <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
   <b>Freelancer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   
 </p>
