@@ -74,24 +74,24 @@ Passionate about building **real-world applications and scalable systems** that 
 ## 💻 Some Project Highlights
 
 ### **1. Secure E-Commerce Platform**
-- Built a secure online shopping system with user authentication and payment integration.
-- Implemented robust security and database management.
+- Built a scalable e-commerce system with secure authentication and reliable payment integration.
+- Improved data security and optimized backend database performance.
 
-### **2. Real World Client Project - Delivery Service System**
-- Backend developer for a real-time delivery management system.  
-Visit site: [Sekin Express](https://sekinexpress.com/)  
-- Integrated order tracking, notifications, and user management.
+### **2. SmartFlix – ML Recommender System**
+- Developed an AI-powered movie recommendation engine using machine learning techniques.  
+- Delivers personalized suggestions based on user behavior, ratings, and content similarity.
 
-### **3. Full Stack E-Channeling Application**
-- Full stack web system for an e-channeling system, including all necessary features.
+### **3. CI/CD Pipeline with GitHub Actions & AWS**
+- Implemented a fully automated CI/CD pipeline that builds, tests, and deploys applications directly to AWS.  
+- Enhanced release speed and system reliability through cloud-native deployment practices.
 
-### **4. Health Monitoring IoT Device**
-- Prototype wearable device tracking pulse, blood pressure, sugar level, and body temperature.
-- Real-time sensor data monitoring with notifications.
+### **4. Abans Ecommerce Mobile App – Flutter**
+- Developed a fully functional ecommerce mobile application for Abans using Flutter.  
+- Implemented product browsing, cart management, user authentication, and smooth UI/UX transitions.
 
-### **5. AI Weather Prediction System**
-- Machine learning model predicting weather patterns.
-- Integrated with web dashboard for visualization.
+### **5. Gym Leveling Desktop App – Management System**
+- Developed a desktop-based gym management system to handle member registration, attendance, and payments.  
+- Improved operational efficiency with automated record handling and a user-friendly interface.
 
 ---
 
