@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eranga Kavishanka
+# 🚀 Hi, I'm Vishishta Dilsara
 
 <p align="center">
   <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
@@ -20,8 +20,9 @@
 </p>
 
 
-Software engineering undergraduate and researcher with experience in **web, mobile, AI, and IoT projects**.  
-Building **real-world applications** that solve problems and enhance user experiences.
+Software engineering undergraduate and researcher with experience in **web, mobile, AI, IoT, and DevOps**.  
+Passionate about building **real-world applications and scalable systems** that solve problems and deliver great user experiences.
+
 
 ---
 
