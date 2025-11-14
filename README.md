@@ -16,6 +16,8 @@
   <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <!-- <img src="https://img.icons8.com/color/24/000000/freelancer.png" title="Freelancer"/>  -->
   <b>Freelancer</b>
+  <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" title="AWS Cloud"/> 
+  <b>AWS Certified Cloud Practitioner</b>
 </p>
 
 
