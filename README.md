@@ -10,14 +10,14 @@
   <b>DevOps Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/24/000000/flutter.png" title="Flutter"/> 
   <b>Flutter Mobile App Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-   <img src="https://img.icons8.com/color/24/000000/cloud-network.png" title="Aviatrix"/> 
+  <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" title="AWS Cloud"/> 
+  <b>AWS Certified Cloud Practitioner</b> &nbsp;&nbsp;|&nbsp;&nbsp;
   <b>Aviatrix Certified Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
    <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" title="AI/ML"/>  
   <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp;
    <img src="https://img.icons8.com/color/24/000000/freelancer.png" title="Freelancer"/>  
   <b>Freelancer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" title="AWS Cloud"/> 
-  <b>AWS Certified Cloud Practitioner</b>
+  
 </p>
 
 
