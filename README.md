@@ -97,7 +97,7 @@ Passionate about building **real-world applications and scalable systems** that 
 
 ## 📈 GitHub Stats
 
-![Eranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical)
+![Vishishta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishishtaDilsara&show_icons=true&theme=radical)
 
 ---
 
