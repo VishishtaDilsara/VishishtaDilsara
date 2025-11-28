@@ -101,25 +101,4 @@ Passionate about building **real-world applications and scalable systems** that 
 
 ---
 
-## 🏆 Achievements 
-- Multicloud Network Associate - **Aviatrix Certified Engineer**  
-- Co-Founder and Full Stack Developer at [InventX Solutions](https://www.facebook.com/people/InventX-Solutions/61576573091654/?sk=about)  
-- Former member of Media Team of **IEEE Student Branch**  
-- Former member of Program Team of IEEE XTREME 17.0  
-- Completed multiple real-world projects in **Java, C++, C, SpringBoot, Flutter, MERN, MEAN, Python, Django, Laravel, PHP, Machine Learning, IoT**  
-- Mathematics Olympiad Competitor  
-- Worked as a Banking Intern at People's Bank (1 year experience)  
-- Former Vice President of Faculty Union  
-- Active Scout with leadership roles and national-level participation  
-- Successfully completed Yale College Diploma in English
 
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/eranga-kavishanka/)  
-- [GitHub](https://github.com/Eranga035225)  
-
----
-
-### ⚡ Fun Fact
-I enjoy combining **software engineering with research** to solve real-world problems while learning new technologies every day!
