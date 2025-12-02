@@ -95,10 +95,6 @@ Passionate about building **real-world applications and scalable systems** that 
 
 ---
 
-## 📈 GitHub Stats
 
-![Vishishta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishishtaDilsara&show_icons=true&theme=radical)
-
----
 
 
