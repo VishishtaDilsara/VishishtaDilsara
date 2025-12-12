@@ -3,7 +3,7 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&width=700&lines=Hi%2C+I'm+Vishishta+Dilsara;Software+Engineering+Undergraduate;University+of+Sri+Jayewardenepura"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&width=700&lines=Software+Engineering+Undergraduate;University+of+Sri+Jayewardenepura"
     alt="Typing SVG"
   />
 </p>
