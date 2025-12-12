@@ -1,4 +1,12 @@
+
 # 🚀 Hi, I'm Vishishta Dilsara
+
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&width=700&lines=Hi%2C+I'm+Vishishta+Dilsara;Software+Engineering+Undergraduate;University+of+Sri+Jayewardenepura"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
