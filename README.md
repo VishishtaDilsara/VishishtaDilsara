@@ -31,6 +31,7 @@
 Software engineering undergraduate and researcher with experience in **web, mobile, AI, IoT, and DevOps**.  
 Passionate about building **real-world applications and scalable systems** that solve problems and deliver great user experiences.
 
+---
 
 ## 🪶 Certification Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
