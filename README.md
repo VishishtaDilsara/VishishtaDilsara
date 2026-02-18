@@ -32,6 +32,18 @@ Software engineering undergraduate and researcher with experience in **web, mobi
 Passionate about building **real-world applications and scalable systems** that solve problems and deliver great user experiences.
 
 
+## 🪶 Certification Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://badges.parchment.com/public/assertions/rrigYxTrQe2cAy-uxokzfg?identity__email=vishishtadilsara2002@gmail.com">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
+<a href="https://www.credly.com/badges/a16c7026-df43-4e5e-b8ec-ebd8c2ed3f3b/public_url">
+<img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" width="100px" height="100px" />
+<a href="https://www.credly.com/badges/58b80853-6ad0-4358-bc95-7722111b6872/public_url">
+<img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="100px" height="100px" />
+<a href="https://www.credly.com/badges/33b3e1d5-e6b8-4142-b52e-82ddca17b7e6/public_url">
+<img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="100px" height="100px" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
