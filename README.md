@@ -162,13 +162,6 @@ Location    : Sri Lanka
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eranga035225/Eranga035225/output/snake.svg" />
-</p>
-
----
 
 ## ⚡ Philosophy
 
