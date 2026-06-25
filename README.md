@@ -1,494 +1,184 @@
+<h1 align="center">⚙️Eranga Kavisanka</h1>
 
-# 🚀 Hi, I'm Vishishta Dilsara
-
-<p align="left">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&width=700&lines=Software+Engineering+Undergraduate;University+of+Sri+Jayewardenepura"
-    alt="Typing SVG"
-  />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+%7C+SRE+%7C+Automation;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+Reliable+%26+Scalable+Systems" />
 </p>
 
 <p align="center">
-  <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
-</p> -->
-<p align="center">
-  <img src="https://img.icons8.com/color/24/000000/code.png" title="Full Stack Developer"/> 
-  <b>Full Stack Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/24/000000/devops.png" title="DevOps"/> 
-  <b>DevOps Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/flutter.png" title="Flutter"/> 
-  <b>Flutter Mobile App Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png" title="AWS Cloud"/> 
-  <b>AWS Cloud Practitioner Certified</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Aviatrix Certified Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-   <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" title="AI/ML"/>  
-  <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <b>Freelancer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  
+  <a href="https://www.eranga-kavisanka.online/">
+    <img src="https://img.shields.io/badge/portfolio-online-0A66C2?style=flat-square"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eranga-kavishanka/">
+    <img src="https://img.shields.io/badge/linkedin-eranga--kavishanka-0077B5?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Eranga035225">
+    <img src="https://img.shields.io/badge/github-Eranga035225-181717?style=flat-square&logo=github"/>
+  </a>
 </p>
 
+---
 
-Software engineering undergraduate and researcher with experience in **web, mobile, AI, IoT, and DevOps**.  
-Passionate about building **real-world applications and scalable systems** that solve problems and deliver great user experiences.
+## 🧾 System Profile
+
+```bash
+Name        : Eranga Kavisanka
+Role        : DevOps Engineer | Cloud Enthusiast
+Focus       : DevOps | DevSecOps | SRE | Automation
+Stack       : AWS | Kubernetes | Terraform | Ansible | CI/CD
+Location    : Sri Lanka
+```
 
 ---
 
-## 🪶 Certification Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badges.parchment.com/public/assertions/rrigYxTrQe2cAy-uxokzfg?identity__email=vishishtadilsara2002@gmail.com">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-<a href="https://www.credly.com/badges/a16c7026-df43-4e5e-b8ec-ebd8c2ed3f3b/public_url">
-<img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" width="100px" height="100px" />
-<a href="https://www.credly.com/badges/58b80853-6ad0-4358-bc95-7722111b6872/public_url">
-<img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="100px" height="100px" />
-<a href="https://www.credly.com/badges/33b3e1d5-e6b8-4142-b52e-82ddca17b7e6/public_url">
-<img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="100px" height="100px" />
-</div>
+## ⚡ About
+
+```bash
+- DevOps & Cloud-focused engineer
+- Hands-on with infrastructure automation & deployment pipelines
+- Experience with real-world deployments (AWS EC2, Nginx, Node.js, MongoDB, PM2)
+- Strong interest in distributed systems & reliability engineering
+- Background in full-stack + backend development
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 DevOps Tech Stack
 
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-<img src="https://img.icons8.com/ios/50/000000/express-js.png" title="Express.js"/>
-<img src="https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white" title="Laravel"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" title="AI"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=keras&logoColor=white" title="Deep Learning"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-<img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/devops.png" title="DevOps"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/>
-<img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" title="IoT"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/jenkins.png" title="Jenkins"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/terraform.png" title="Terraform"/>
-<img src="https://img.icons8.com/color/48/000000/ansible.png" title="Ansible"/>
-<!-- <img src="https://img.icons8.com/color/48/000000/prometheus.png" title="Prometheus"/> -->
-<img src="https://img.icons8.com/color/48/000000/grafana.png" title="Grafana"/>
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aviatrix-FF6A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible"/>
 </p>
 
+### ⚙️ CI/CD & Automation
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
+<img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square"/>
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+</p>
+
+### 🖥️ Systems & Networking
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx"/>
+</p>
+
+### 📊 Observability
+<p>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
+</p>
+
+### 🧑‍💻 Scripting & Backend
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+</p>
 
 ---
 
-## 💻 Some Project Highlights
+## 💻 Development Stack (Background)
 
-### **1. Secure E-Commerce Platform**
-- Built a scalable e-commerce system with secure authentication and reliable payment integration.
-- Improved data security and optimized backend database performance.
-
-### **2. SmartFlix – ML Recommender System**
-- Developed an AI-powered movie recommendation engine using machine learning techniques.  
-- Delivers personalized suggestions based on user behavior, ratings, and content similarity.
-
-### **3. CI/CD Pipeline with GitHub Actions & AWS**
-- Implemented a fully automated CI/CD pipeline that builds, tests, and deploys applications directly to AWS.  
-- Enhanced release speed and system reliability through cloud-native deployment practices.
-
-### **4. Abans Ecommerce Mobile App – Flutter**
-- Developed a fully functional ecommerce mobile application for Abans using Flutter.  
-- Implemented product browsing, cart management, user authentication, and smooth UI/UX transitions.
-
-### **5. Gym Leveling Desktop App – Management System**
-- Developed a desktop-based gym management system to handle member registration, attendance, and payments.  
-- Improved operational efficiency with automated record handling and a user-friendly interface.
+<p>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/react-native.png"/>
+<img src="https://img.icons8.com/color/48/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/flutter.png"/>
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/ios/50/express-js.png"/>
+<img src="https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png"/>
+<img src="https://img.icons8.com/color/48/django.png"/>
+<img src="https://img.icons8.com/color/48/python.png"/>
+<img src="https://img.icons8.com/color/48/php.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/postgreesql.png"/>
+</p>
 
 ---
 
-<!-- daily commit: 2026-04-17T20:24:48.373Z -->
-<!-- daily commit: 2026-04-17T20:27:21.360Z -->
-<!-- daily commit: 2026-04-17T21:30:30.414Z -->
-<!-- daily commit: 2026-04-18T00:30:30.437Z -->
-<!-- daily commit: 2026-04-18T03:30:30.415Z -->
-<!-- daily commit: 2026-04-18T06:30:30.445Z -->
-<!-- daily commit: 2026-04-18T09:30:30.421Z -->
-<!-- daily commit: 2026-04-18T12:30:30.421Z -->
-<!-- daily commit: 2026-04-18T15:30:30.431Z -->
-<!-- daily commit: 2026-04-18T18:30:30.484Z -->
-<!-- daily commit: 2026-04-18T21:30:30.439Z -->
-<!-- daily commit: 2026-04-19T00:30:30.453Z -->
-<!-- daily commit: 2026-04-19T03:30:30.444Z -->
-<!-- daily commit: 2026-04-19T06:30:30.453Z -->
-<!-- daily commit: 2026-04-19T09:30:30.404Z -->
-<!-- daily commit: 2026-04-19T12:30:30.418Z -->
-<!-- daily commit: 2026-04-19T15:30:30.459Z -->
-<!-- daily commit: 2026-04-19T18:30:30.449Z -->
-<!-- daily commit: 2026-04-19T21:30:30.458Z -->
-<!-- daily commit: 2026-04-20T00:30:30.704Z -->
-<!-- daily commit: 2026-04-20T03:30:30.397Z -->
-<!-- daily commit: 2026-04-20T06:30:30.489Z -->
-<!-- daily commit: 2026-04-20T09:30:30.527Z -->
-<!-- daily commit: 2026-04-20T12:30:30.591Z -->
-<!-- daily commit: 2026-04-20T15:30:30.517Z -->
-<!-- daily commit: 2026-04-20T18:30:30.464Z -->
-<!-- daily commit: 2026-04-20T21:30:30.468Z -->
-<!-- daily commit: 2026-04-21T00:30:30.447Z -->
-<!-- daily commit: 2026-04-21T03:30:30.993Z -->
-<!-- daily commit: 2026-04-21T06:30:30.651Z -->
-<!-- daily commit: 2026-04-21T09:30:31.119Z -->
-<!-- daily commit: 2026-04-21T12:30:30.495Z -->
-<!-- daily commit: 2026-04-21T15:30:30.465Z -->
-<!-- daily commit: 2026-04-21T18:30:30.403Z -->
-<!-- daily commit: 2026-04-21T21:30:30.611Z -->
-<!-- daily commit: 2026-04-22T00:30:30.424Z -->
-<!-- daily commit: 2026-04-22T03:30:30.410Z -->
-<!-- daily commit: 2026-04-22T06:30:30.649Z -->
-<!-- daily commit: 2026-04-22T09:30:30.487Z -->
-<!-- daily commit: 2026-04-22T12:30:30.485Z -->
-<!-- daily commit: 2026-04-22T15:30:30.472Z -->
-<!-- daily commit: 2026-04-22T18:30:30.449Z -->
-<!-- daily commit: 2026-04-22T21:30:30.449Z -->
-<!-- daily commit: 2026-04-23T00:30:30.413Z -->
-<!-- daily commit: 2026-04-23T03:30:30.423Z -->
-<!-- daily commit: 2026-04-23T06:30:30.513Z -->
-<!-- daily commit: 2026-04-23T09:30:30.683Z -->
-<!-- daily commit: 2026-04-23T12:30:30.543Z -->
-<!-- daily commit: 2026-04-23T15:30:30.502Z -->
-<!-- daily commit: 2026-04-23T18:30:30.476Z -->
-<!-- daily commit: 2026-04-23T21:30:30.645Z -->
-<!-- daily commit: 2026-04-24T00:30:30.409Z -->
-<!-- daily commit: 2026-04-24T03:30:30.414Z -->
-<!-- daily commit: 2026-04-24T06:30:30.515Z -->
-<!-- daily commit: 2026-04-24T09:30:30.499Z -->
-<!-- daily commit: 2026-04-24T12:30:30.481Z -->
-<!-- daily commit: 2026-04-24T15:30:30.720Z -->
-<!-- daily commit: 2026-04-24T18:30:30.483Z -->
-<!-- daily commit: 2026-04-24T21:30:30.448Z -->
-<!-- daily commit: 2026-04-25T00:30:30.417Z -->
-<!-- daily commit: 2026-04-25T03:30:30.415Z -->
-<!-- daily commit: 2026-04-25T06:30:30.645Z -->
-<!-- daily commit: 2026-04-25T09:30:30.458Z -->
-<!-- daily commit: 2026-04-25T12:30:30.462Z -->
-<!-- daily commit: 2026-04-25T15:30:30.445Z -->
-<!-- daily commit: 2026-04-25T18:30:30.458Z -->
-<!-- daily commit: 2026-04-25T21:30:30.420Z -->
-<!-- daily commit: 2026-04-26T00:30:30.435Z -->
-<!-- daily commit: 2026-04-26T03:30:30.441Z -->
-<!-- daily commit: 2026-04-26T06:30:30.578Z -->
-<!-- daily commit: 2026-04-26T09:30:30.618Z -->
-<!-- daily commit: 2026-04-26T12:30:30.428Z -->
-<!-- daily commit: 2026-04-26T15:30:30.402Z -->
-<!-- daily commit: 2026-04-26T18:30:30.609Z -->
-<!-- daily commit: 2026-04-26T21:30:30.440Z -->
-<!-- daily commit: 2026-04-27T00:30:30.595Z -->
-<!-- daily commit: 2026-04-27T03:30:30.652Z -->
-<!-- daily commit: 2026-04-27T06:30:30.669Z -->
-<!-- daily commit: 2026-04-27T09:30:30.640Z -->
-<!-- daily commit: 2026-04-27T12:30:30.678Z -->
-<!-- daily commit: 2026-04-27T15:30:30.486Z -->
-<!-- daily commit: 2026-04-27T18:30:30.476Z -->
-<!-- daily commit: 2026-04-27T21:30:30.526Z -->
-<!-- daily commit: 2026-04-28T00:30:30.446Z -->
-<!-- daily commit: 2026-04-28T03:30:30.425Z -->
-<!-- daily commit: 2026-04-28T06:30:30.497Z -->
-<!-- daily commit: 2026-04-28T09:30:30.734Z -->
-<!-- daily commit: 2026-04-28T12:30:30.561Z -->
-<!-- daily commit: 2026-04-28T15:30:30.485Z -->
-<!-- daily commit: 2026-04-28T18:30:30.481Z -->
-<!-- daily commit: 2026-04-28T21:30:30.481Z -->
-<!-- daily commit: 2026-04-29T00:30:30.444Z -->
-<!-- daily commit: 2026-04-29T03:30:30.462Z -->
-<!-- daily commit: 2026-04-29T06:30:30.861Z -->
-<!-- daily commit: 2026-04-29T09:30:30.757Z -->
-<!-- daily commit: 2026-04-29T12:30:30.516Z -->
-<!-- daily commit: 2026-04-29T15:30:30.464Z -->
-<!-- daily commit: 2026-04-29T18:30:30.661Z -->
-<!-- daily commit: 2026-04-29T21:30:30.503Z -->
-<!-- daily commit: 2026-04-30T00:30:30.609Z -->
-<!-- daily commit: 2026-04-30T03:30:30.472Z -->
-<!-- daily commit: 2026-04-30T06:30:30.664Z -->
-<!-- daily commit: 2026-04-30T09:30:30.491Z -->
-<!-- daily commit: 2026-04-30T12:30:30.582Z -->
-<!-- daily commit: 2026-04-30T15:30:30.770Z -->
-<!-- daily commit: 2026-04-30T18:30:30.520Z -->
-<!-- daily commit: 2026-04-30T21:30:30.457Z -->
-<!-- daily commit: 2026-05-01T00:30:30.451Z -->
-<!-- daily commit: 2026-05-01T03:30:30.429Z -->
-<!-- daily commit: 2026-05-01T06:30:30.458Z -->
-<!-- daily commit: 2026-05-01T09:30:30.574Z -->
-<!-- daily commit: 2026-05-01T12:30:30.416Z -->
-<!-- daily commit: 2026-05-01T15:30:30.435Z -->
-<!-- daily commit: 2026-05-01T18:30:30.677Z -->
-<!-- daily commit: 2026-05-01T21:30:30.429Z -->
-<!-- daily commit: 2026-05-02T00:30:30.440Z -->
-<!-- daily commit: 2026-05-02T03:30:30.433Z -->
-<!-- daily commit: 2026-05-02T06:30:30.612Z -->
-<!-- daily commit: 2026-05-02T09:30:30.664Z -->
-<!-- daily commit: 2026-05-02T12:30:30.522Z -->
-<!-- daily commit: 2026-05-02T15:30:30.547Z -->
-<!-- daily commit: 2026-05-02T18:30:30.589Z -->
-<!-- daily commit: 2026-05-02T21:30:30.442Z -->
-<!-- daily commit: 2026-05-03T00:30:30.429Z -->
-<!-- daily commit: 2026-05-03T03:30:30.623Z -->
-<!-- daily commit: 2026-05-03T06:30:30.424Z -->
-<!-- daily commit: 2026-05-03T09:30:30.441Z -->
-<!-- daily commit: 2026-05-03T12:30:30.612Z -->
-<!-- daily commit: 2026-05-03T15:30:30.656Z -->
-<!-- daily commit: 2026-05-03T18:30:30.984Z -->
-<!-- daily commit: 2026-05-03T21:30:30.635Z -->
-<!-- daily commit: 2026-05-04T00:30:30.431Z -->
-<!-- daily commit: 2026-05-04T03:30:30.443Z -->
-<!-- daily commit: 2026-05-04T06:30:30.715Z -->
-<!-- daily commit: 2026-05-04T09:30:30.684Z -->
-<!-- daily commit: 2026-05-04T12:30:30.502Z -->
-<!-- daily commit: 2026-05-04T15:30:30.569Z -->
-<!-- daily commit: 2026-05-04T18:30:30.655Z -->
-<!-- daily commit: 2026-05-04T21:30:30.489Z -->
-<!-- daily commit: 2026-05-05T00:30:30.447Z -->
-<!-- daily commit: 2026-05-05T03:30:30.492Z -->
-<!-- daily commit: 2026-05-05T06:30:30.507Z -->
-<!-- daily commit: 2026-05-05T09:30:30.531Z -->
-<!-- daily commit: 2026-05-05T12:30:30.677Z -->
-<!-- daily commit: 2026-05-05T15:30:30.690Z -->
-<!-- daily commit: 2026-05-05T18:30:30.475Z -->
-<!-- daily commit: 2026-05-05T21:30:30.456Z -->
-<!-- daily commit: 2026-05-06T00:30:30.442Z -->
-<!-- daily commit: 2026-05-06T03:30:30.630Z -->
-<!-- daily commit: 2026-05-06T06:30:30.482Z -->
-<!-- daily commit: 2026-05-06T09:30:31.106Z -->
-<!-- daily commit: 2026-05-06T12:30:30.545Z -->
-<!-- daily commit: 2026-05-06T15:30:30.474Z -->
-<!-- daily commit: 2026-05-06T18:30:30.498Z -->
-<!-- daily commit: 2026-05-06T21:30:30.473Z -->
-<!-- daily commit: 2026-05-07T00:30:30.449Z -->
-<!-- daily commit: 2026-05-07T03:30:30.492Z -->
-<!-- daily commit: 2026-05-07T06:30:31.058Z -->
-<!-- daily commit: 2026-05-07T09:30:30.714Z -->
-<!-- daily commit: 2026-05-07T12:30:30.499Z -->
-<!-- daily commit: 2026-05-07T15:30:30.505Z -->
-<!-- daily commit: 2026-05-07T18:30:30.682Z -->
-<!-- daily commit: 2026-05-07T21:30:30.582Z -->
-<!-- daily commit: 2026-05-08T00:30:30.453Z -->
-<!-- daily commit: 2026-05-08T03:30:30.453Z -->
-<!-- daily commit: 2026-05-08T06:30:30.627Z -->
-<!-- daily commit: 2026-05-08T09:30:30.617Z -->
-<!-- daily commit: 2026-05-08T12:30:30.675Z -->
-<!-- daily commit: 2026-05-08T15:30:30.627Z -->
-<!-- daily commit: 2026-05-08T18:30:30.450Z -->
-<!-- daily commit: 2026-05-08T21:30:30.466Z -->
-<!-- daily commit: 2026-05-09T00:30:30.621Z -->
-<!-- daily commit: 2026-05-09T03:30:30.423Z -->
-<!-- daily commit: 2026-05-09T06:30:30.605Z -->
-<!-- daily commit: 2026-05-09T09:30:30.469Z -->
-<!-- daily commit: 2026-05-09T12:30:30.594Z -->
-<!-- daily commit: 2026-05-09T15:30:30.461Z -->
-<!-- daily commit: 2026-05-09T18:30:30.408Z -->
-<!-- daily commit: 2026-05-09T21:30:30.457Z -->
-<!-- daily commit: 2026-05-10T00:30:30.432Z -->
-<!-- daily commit: 2026-05-10T03:30:30.420Z -->
-<!-- daily commit: 2026-05-10T06:30:30.437Z -->
-<!-- daily commit: 2026-05-10T09:30:30.639Z -->
-<!-- daily commit: 2026-05-10T12:30:30.409Z -->
-<!-- daily commit: 2026-06-01T09:30:50.605Z -->
-<!-- daily commit: 2026-06-01T12:30:50.479Z -->
-<!-- daily commit: 2026-06-01T15:30:50.462Z -->
-<!-- daily commit: 2026-06-01T18:30:50.459Z -->
-<!-- daily commit: 2026-06-01T21:30:50.488Z -->
-<!-- daily commit: 2026-06-02T00:30:50.759Z -->
-<!-- daily commit: 2026-06-02T03:30:50.480Z -->
-<!-- daily commit: 2026-06-02T06:30:50.695Z -->
-<!-- daily commit: 2026-06-02T09:30:50.679Z -->
-<!-- daily commit: 2026-06-02T12:30:50.719Z -->
-<!-- daily commit: 2026-06-02T15:30:50.531Z -->
-<!-- daily commit: 2026-06-02T18:30:50.600Z -->
-<!-- daily commit: 2026-06-02T21:30:50.464Z -->
-<!-- daily commit: 2026-06-03T00:30:50.467Z -->
-<!-- daily commit: 2026-06-03T03:30:50.445Z -->
-<!-- daily commit: 2026-06-03T06:30:50.655Z -->
-<!-- daily commit: 2026-06-03T09:30:50.740Z -->
-<!-- daily commit: 2026-06-03T12:30:50.541Z -->
-<!-- daily commit: 2026-06-03T15:30:50.588Z -->
-<!-- daily commit: 2026-06-03T18:30:50.521Z -->
-<!-- daily commit: 2026-06-03T21:30:50.654Z -->
-<!-- daily commit: 2026-06-04T00:30:50.448Z -->
-<!-- daily commit: 2026-06-04T03:30:50.687Z -->
-<!-- daily commit: 2026-06-04T06:30:50.478Z -->
-<!-- daily commit: 2026-06-04T09:30:50.702Z -->
-<!-- daily commit: 2026-06-04T12:30:50.480Z -->
-<!-- daily commit: 2026-06-04T15:30:50.535Z -->
-<!-- daily commit: 2026-06-04T18:30:50.661Z -->
-<!-- daily commit: 2026-06-04T21:30:50.630Z -->
-<!-- daily commit: 2026-06-05T00:30:50.610Z -->
-<!-- daily commit: 2026-06-05T03:30:50.614Z -->
-<!-- daily commit: 2026-06-05T06:30:50.995Z -->
-<!-- daily commit: 2026-06-05T09:30:50.639Z -->
-<!-- daily commit: 2026-06-05T12:30:50.457Z -->
-<!-- daily commit: 2026-06-05T15:30:50.448Z -->
-<!-- daily commit: 2026-06-05T18:30:50.447Z -->
-<!-- daily commit: 2026-06-05T21:30:50.436Z -->
-<!-- daily commit: 2026-06-06T00:30:50.420Z -->
-<!-- daily commit: 2026-06-06T03:30:50.404Z -->
-<!-- daily commit: 2026-06-06T06:30:50.574Z -->
-<!-- daily commit: 2026-06-06T09:30:50.620Z -->
-<!-- daily commit: 2026-06-06T12:30:50.454Z -->
-<!-- daily commit: 2026-06-06T15:30:50.572Z -->
-<!-- daily commit: 2026-06-06T18:30:50.423Z -->
-<!-- daily commit: 2026-06-06T21:30:50.624Z -->
-<!-- daily commit: 2026-06-07T00:30:50.418Z -->
-<!-- daily commit: 2026-06-07T03:30:50.598Z -->
-<!-- daily commit: 2026-06-07T06:30:50.606Z -->
-<!-- daily commit: 2026-06-07T09:30:50.428Z -->
-<!-- daily commit: 2026-06-07T12:30:50.433Z -->
-<!-- daily commit: 2026-06-07T15:30:50.601Z -->
-<!-- daily commit: 2026-06-07T18:30:50.603Z -->
-<!-- daily commit: 2026-06-07T21:30:50.402Z -->
-<!-- daily commit: 2026-06-08T00:30:50.459Z -->
-<!-- daily commit: 2026-06-08T03:30:50.427Z -->
-<!-- daily commit: 2026-06-08T06:30:50.468Z -->
-<!-- daily commit: 2026-06-08T09:30:50.531Z -->
-<!-- daily commit: 2026-06-08T12:30:50.942Z -->
-<!-- daily commit: 2026-06-08T15:30:50.663Z -->
-<!-- daily commit: 2026-06-08T18:30:50.447Z -->
-<!-- daily commit: 2026-06-08T21:30:50.763Z -->
-<!-- daily commit: 2026-06-09T00:30:50.584Z -->
-<!-- daily commit: 2026-06-09T03:30:50.449Z -->
-<!-- daily commit: 2026-06-09T06:30:50.490Z -->
-<!-- daily commit: 2026-06-09T09:30:50.659Z -->
-<!-- daily commit: 2026-06-09T12:30:50.700Z -->
-<!-- daily commit: 2026-06-09T15:30:50.645Z -->
-<!-- daily commit: 2026-06-09T18:30:50.475Z -->
-<!-- daily commit: 2026-06-09T21:30:50.626Z -->
-<!-- daily commit: 2026-06-10T00:30:50.435Z -->
-<!-- daily commit: 2026-06-10T03:30:50.450Z -->
-<!-- daily commit: 2026-06-10T06:30:50.757Z -->
-<!-- daily commit: 2026-06-10T09:30:50.481Z -->
-<!-- daily commit: 2026-06-10T12:30:50.600Z -->
-<!-- daily commit: 2026-06-10T15:30:50.662Z -->
-<!-- daily commit: 2026-06-10T18:30:50.517Z -->
-<!-- daily commit: 2026-06-10T21:30:50.592Z -->
-<!-- daily commit: 2026-06-11T00:30:50.532Z -->
-<!-- daily commit: 2026-06-11T03:30:50.509Z -->
-<!-- daily commit: 2026-06-11T06:30:50.533Z -->
-<!-- daily commit: 2026-06-11T09:30:50.518Z -->
-<!-- daily commit: 2026-06-11T12:30:50.458Z -->
-<!-- daily commit: 2026-06-11T15:30:50.640Z -->
-<!-- daily commit: 2026-06-11T18:30:50.457Z -->
-<!-- daily commit: 2026-06-11T21:30:50.590Z -->
-<!-- daily commit: 2026-06-12T00:30:50.736Z -->
-<!-- daily commit: 2026-06-12T03:30:50.432Z -->
-<!-- daily commit: 2026-06-12T06:30:50.685Z -->
-<!-- daily commit: 2026-06-12T09:30:50.620Z -->
-<!-- daily commit: 2026-06-12T12:30:50.509Z -->
-<!-- daily commit: 2026-06-12T15:30:50.613Z -->
-<!-- daily commit: 2026-06-12T18:30:50.628Z -->
-<!-- daily commit: 2026-06-12T21:30:50.456Z -->
-<!-- daily commit: 2026-06-13T00:30:50.602Z -->
-<!-- daily commit: 2026-06-13T03:30:50.442Z -->
-<!-- daily commit: 2026-06-13T06:30:50.464Z -->
-<!-- daily commit: 2026-06-13T09:30:50.435Z -->
-<!-- daily commit: 2026-06-13T12:30:50.468Z -->
-<!-- daily commit: 2026-06-13T15:30:50.793Z -->
-<!-- daily commit: 2026-06-13T18:30:50.468Z -->
-<!-- daily commit: 2026-06-13T21:30:50.618Z -->
-<!-- daily commit: 2026-06-14T00:30:50.488Z -->
-<!-- daily commit: 2026-06-14T03:30:50.448Z -->
-<!-- daily commit: 2026-06-14T06:30:50.638Z -->
-<!-- daily commit: 2026-06-14T09:30:50.458Z -->
-<!-- daily commit: 2026-06-14T12:30:50.489Z -->
-<!-- daily commit: 2026-06-14T15:30:50.653Z -->
-<!-- daily commit: 2026-06-14T18:30:50.452Z -->
-<!-- daily commit: 2026-06-14T21:30:50.424Z -->
-<!-- daily commit: 2026-06-15T00:30:50.443Z -->
-<!-- daily commit: 2026-06-15T03:30:50.673Z -->
-<!-- daily commit: 2026-06-15T06:30:50.564Z -->
-<!-- daily commit: 2026-06-15T09:30:50.689Z -->
-<!-- daily commit: 2026-06-15T12:30:50.519Z -->
-<!-- daily commit: 2026-06-15T15:30:51.374Z -->
-<!-- daily commit: 2026-06-15T18:30:50.662Z -->
-<!-- daily commit: 2026-06-15T21:30:50.478Z -->
-<!-- daily commit: 2026-06-16T00:30:50.620Z -->
-<!-- daily commit: 2026-06-16T03:30:50.636Z -->
-<!-- daily commit: 2026-06-16T06:30:50.719Z -->
-<!-- daily commit: 2026-06-16T09:30:50.640Z -->
-<!-- daily commit: 2026-06-16T12:30:50.482Z -->
-<!-- daily commit: 2026-06-16T15:30:50.567Z -->
-<!-- daily commit: 2026-06-16T18:30:50.529Z -->
-<!-- daily commit: 2026-06-16T21:30:51.075Z -->
-<!-- daily commit: 2026-06-17T00:30:50.457Z -->
-<!-- daily commit: 2026-06-17T03:30:50.438Z -->
-<!-- daily commit: 2026-06-17T06:30:50.478Z -->
-<!-- daily commit: 2026-06-17T09:30:50.455Z -->
-<!-- daily commit: 2026-06-17T12:30:50.630Z -->
-<!-- daily commit: 2026-06-17T15:30:50.488Z -->
-<!-- daily commit: 2026-06-17T18:30:50.668Z -->
-<!-- daily commit: 2026-06-17T21:30:50.418Z -->
-<!-- daily commit: 2026-06-18T00:30:50.439Z -->
-<!-- daily commit: 2026-06-18T03:30:50.614Z -->
-<!-- daily commit: 2026-06-18T06:30:50.428Z -->
-<!-- daily commit: 2026-06-18T09:30:50.680Z -->
-<!-- daily commit: 2026-06-18T12:30:50.652Z -->
-<!-- daily commit: 2026-06-18T15:30:50.457Z -->
-<!-- daily commit: 2026-06-18T18:30:50.449Z -->
-<!-- daily commit: 2026-06-18T21:30:50.594Z -->
-<!-- daily commit: 2026-06-19T00:30:50.420Z -->
-<!-- daily commit: 2026-06-19T03:30:50.428Z -->
-<!-- daily commit: 2026-06-19T06:30:50.435Z -->
-<!-- daily commit: 2026-06-19T09:30:50.641Z -->
-<!-- daily commit: 2026-06-19T12:30:50.490Z -->
-<!-- daily commit: 2026-06-19T15:30:50.429Z -->
-<!-- daily commit: 2026-06-19T18:30:50.439Z -->
-<!-- daily commit: 2026-06-19T21:30:50.414Z -->
-<!-- daily commit: 2026-06-20T00:30:50.444Z -->
-<!-- daily commit: 2026-06-20T03:30:50.417Z -->
-<!-- daily commit: 2026-06-20T06:30:50.474Z -->
-<!-- daily commit: 2026-06-20T09:30:50.482Z -->
-<!-- daily commit: 2026-06-20T12:30:50.440Z -->
-<!-- daily commit: 2026-06-20T15:30:51.004Z -->
-<!-- daily commit: 2026-06-20T18:30:50.450Z -->
-<!-- daily commit: 2026-06-20T21:30:50.757Z -->
-<!-- daily commit: 2026-06-21T00:30:50.423Z -->
-<!-- daily commit: 2026-06-21T03:30:50.590Z -->
-<!-- daily commit: 2026-06-21T06:30:50.455Z -->
-<!-- daily commit: 2026-06-21T09:30:50.394Z -->
-<!-- daily commit: 2026-06-21T12:30:50.459Z -->
-<!-- daily commit: 2026-06-21T15:30:50.414Z -->
-<!-- daily commit: 2026-06-21T18:30:50.905Z -->
-<!-- daily commit: 2026-06-21T21:30:50.606Z -->
-<!-- daily commit: 2026-06-22T00:30:50.583Z -->
-<!-- daily commit: 2026-06-22T03:30:50.638Z -->
-<!-- daily commit: 2026-06-22T06:30:50.471Z -->
-<!-- daily commit: 2026-06-22T09:30:50.647Z -->
-<!-- daily commit: 2026-06-22T12:30:50.441Z -->
-<!-- daily commit: 2026-06-22T15:30:50.478Z -->
-<!-- daily commit: 2026-06-22T18:30:50.626Z -->
-<!-- daily commit: 2026-06-22T21:30:50.404Z -->
-<!-- daily commit: 2026-06-23T00:30:50.450Z -->
-<!-- daily commit: 2026-06-23T03:30:50.447Z -->
-<!-- daily commit: 2026-06-23T06:30:50.463Z -->
-<!-- daily commit: 2026-06-23T09:30:50.656Z -->
-<!-- daily commit: 2026-06-23T12:30:50.444Z -->
-<!-- daily commit: 2026-06-23T15:30:50.584Z -->
-<!-- daily commit: 2026-06-23T18:30:50.465Z -->
-<!-- daily commit: 2026-06-23T21:30:50.447Z -->
-<!-- daily commit: 2026-06-24T00:30:50.456Z -->
-<!-- daily commit: 2026-06-24T03:30:50.624Z -->
-<!-- daily commit: 2026-06-24T06:30:50.449Z -->
-<!-- daily commit: 2026-06-24T09:30:51.109Z -->
-<!-- daily commit: 2026-06-24T12:30:50.678Z -->
-<!-- daily commit: 2026-06-24T15:30:50.707Z -->
-<!-- daily commit: 2026-06-24T18:30:50.684Z -->
-<!-- daily commit: 2026-06-24T21:30:50.459Z -->
-<!-- daily commit: 2026-06-25T00:30:50.620Z -->
-<!-- daily commit: 2026-06-25T03:30:50.467Z -->
-<!-- daily commit: 2026-06-25T06:30:50.679Z -->
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranga035225&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eranga035225&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements & Experience
+
+```bash
+- Aviatrix Certified Engineer (Multi-Cloud Networking)
+- AWS Certified Cloud Practitioner
+- Co-Founder & Full Stack Developer - InventX Solutions
+- IEEE Student Branch Member
+- IEEE Xtreme 17.0 Program Committee
+- Banking Intern - People's Bank (1 year)
+- Faculty Union Vice President
+- Mathematics Olympiad Competitor
+- Active Scout with leadership experience
+- Yale College Diploma in English
+```
+
+---
+
+## 🎯 Current Focus
+
+```bash
+- Kubernetes (production debugging & troubleshooting)
+- CI/CD pipeline engineering
+- Infrastructure as Code (Terraform + Ansible)
+- DevSecOps practices
+- MLOps integration
+```
+
+---
+
+## 🧠 Engineering Principles
+
+```bash
+- Automate everything possible
+- Design for scalability & resilience
+- Treat infrastructure as code
+- Monitor, log, and observe systems deeply
+- Continuously improve systems through iteration
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eranga035225/Eranga035225/output/snake.svg" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+```bash
+"Build systems that scale. Automate what breaks. Optimize what matters."
+```
+
+---
+
+<!-- daily commit: 2026-06-25T09:06:47.912Z -->
