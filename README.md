@@ -127,16 +127,13 @@ Location    : Sri Lanka
 ## 🏆 Achievements & Experience
 
 ```bash
-- Aviatrix Certified Engineer (Multi-Cloud Networking)
 - AWS Certified Cloud Practitioner
-- Co-Founder & Full Stack Developer - InventX Solutions
+- Aviatrix Certified Engineer (Multi-Cloud Networking)
+- Media & Communication Lead at AWS Student Builder Group at USJ
+- Former Faculty Union President
 - IEEE Student Branch Member
 - IEEE Xtreme 17.0 Program Committee
-- Banking Intern - People's Bank (1 year)
-- Faculty Union Vice President
-- Mathematics Olympiad Competitor
-- Active Scout with leadership experience
-- Yale College Diploma in English
+- DiTec at ESOFT Metro Campus
 ```
 
 ---
