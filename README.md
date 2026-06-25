@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.eranga-kavisanka.online/">
+  <a href="https://vishishtadilsara.me/">
     <img src="https://img.shields.io/badge/portfolio-online-0A66C2?style=flat-square"/>
   </a>
-  <a href="https://www.linkedin.com/in/eranga-kavishanka/">
-    <img src="https://img.shields.io/badge/linkedin-eranga--kavishanka-0077B5?style=flat-square&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/vishishta-dilsara-14059a348/">
+    <img src="https://img.shields.io/badge/linkedin-vishishta--dilsara-0077B5?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://github.com/VishishtaDilsara">
     <img src="https://img.shields.io/badge/github-VishishtaDilsara-181717?style=flat-square&logo=github"/>
