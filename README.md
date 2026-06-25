@@ -21,7 +21,7 @@
 ## 🧾 System Profile
 
 ```bash
-Name        : Eranga Kavisanka
+Name        : Vishishta Dilsara
 Role        : DevOps Engineer | Cloud Enthusiast
 Focus       : DevOps | DevSecOps | SRE | Automation
 Stack       : AWS | Kubernetes | Terraform | Ansible | CI/CD
