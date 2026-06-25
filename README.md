@@ -11,8 +11,8 @@
   <a href="https://www.linkedin.com/in/eranga-kavishanka/">
     <img src="https://img.shields.io/badge/linkedin-eranga--kavishanka-0077B5?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="https://github.com/Eranga035225">
-    <img src="https://img.shields.io/badge/github-Eranga035225-181717?style=flat-square&logo=github"/>
+  <a href="https://github.com/VishishtaDilsara">
+    <img src="https://img.shields.io/badge/github-VishishtaDilsara-181717?style=flat-square&logo=github"/>
   </a>
 </p>
 
